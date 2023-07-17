@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliciafig
 - 👀 I’m interested in legal tech
 - 🌱 I’m currently learning IA 
-- 💞️ I’m looking to collaborate on apply AI to law
+- 💞️ I’m looking to collaborate on apply AI to law and attorney
 - 📫 How to reach me twitter/instagram @aliciafig
 
 <!---
